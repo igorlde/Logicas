@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BemBao/BemBao.iml" filepath="$PROJECT_DIR$/BemBao/BemBao.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculaArea/CalculaArea.iml" filepath="$PROJECT_DIR$/CalculaArea/CalculaArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularArrecadacaoCamisas/CalcularArrecadacaoCamisas.iml" filepath="$PROJECT_DIR$/CalcularArrecadacaoCamisas/CalcularArrecadacaoCamisas.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContarDiasVidas/ContarDiasVidas.iml" filepath="$PROJECT_DIR$/ContarDiasVidas/ContarDiasVidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiasAteSeuMesatual/DiasAteSeuMesatual.iml" filepath="$PROJECT_DIR$/DiasAteSeuMesatual/DiasAteSeuMesatual.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logicas.iml" filepath="$PROJECT_DIR$/Logicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tirando10porcento/Tirando10porcento.iml" filepath="$PROJECT_DIR$/Tirando10porcento/Tirando10porcento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calcularDistanciaEntreDoisPontos/calcularDistanciaEntreDoisPontos.iml" filepath="$PROJECT_DIR$/calcularDistanciaEntreDoisPontos/calcularDistanciaEntreDoisPontos.iml" />
       <module fileurl="file://$PROJECT_DIR$/desvios/desvios.iml" filepath="$PROJECT_DIR$/desvios/desvios.iml" />
       <module fileurl="file://$PROJECT_DIR$/litrosG.Litros/litrosG.Litros.iml" filepath="$PROJECT_DIR$/litrosG.Litros/litrosG.Litros.iml" />
     </modules>
